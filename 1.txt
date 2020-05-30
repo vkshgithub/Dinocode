@@ -1,2 +1,3 @@
 This is the test code for dino game. This code automates the
 dino game in the chorme browser.
+(First commit)
